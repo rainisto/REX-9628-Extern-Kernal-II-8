@@ -1,5 +1,5 @@
 # REX-9628-Extern-Kernel-II-8
-DL2DW's remake of REX 9628 Extern-Kernel II-8 clone card 
+DL2DW's remake of REX 9628 Extern-Kernal II-8 clone card 
 
 Seems that DL2DW deleted them from his personal blog, so I'll put them available here again as permitted by CC BY-NC-SA license.
 
