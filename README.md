@@ -63,7 +63,7 @@ Switch (on)        slot   kernal number on EPROM
 If nothing else is set, the card automatically jumps to the
 1st kernal in the 1st slot.
 
-If used EPROM is bugger than 8K, ie. 27128 or 27256, then
+If used EPROM is bigger than 8K, ie. 27128 or 27256, then
 kernals must be burned one after the other in 8K blocks each.
 See the following address table:
 
